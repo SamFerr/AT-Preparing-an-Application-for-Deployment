@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon index",
     "start": "node index",
-    "test": "echo \"all good here boss"
+    "test": "exit 0"
   },
   "keywords": [],
   "author": "",
